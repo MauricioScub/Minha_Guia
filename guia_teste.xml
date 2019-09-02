@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190901004500 -0300" stop="20190901014000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901014000 -0300" stop="20190901023500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901023500 -0300" stop="20190901033000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901033000 -0300" stop="20190901042000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901042000 -0300" stop="20190901051500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901051500 -0300" stop="20190901060000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901060000 -0300" stop="20190901070000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901070000 -0300" stop="20190901075500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901075500 -0300" stop="20190901085000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901085000 -0300" stop="20190901094500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901094500 -0300" stop="20190901104000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901104000 -0300" stop="20190901113500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901113500 -0300" stop="20190901123000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901123000 -0300" stop="20190901132500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901132500 -0300" stop="20190901142000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901142000 -0300" stop="20190901151500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901151500 -0300" stop="20190901161000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901161000 -0300" stop="20190901170500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901170500 -0300" stop="20190901180000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901180000 -0300" stop="20190901185500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901185500 -0300" stop="20190901195000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901195000 -0300" stop="20190901204000 -0300" channel="AXN HD">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901204000 -0300" stop="20190901210500 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901210500 -0300" stop="20190901213000 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901213000 -0300" stop="20190901222000 -0300" channel="AXN HD">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901222000 -0300" stop="20190901231000 -0300" channel="AXN HD">
+    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901231000 -0300" stop="20190901233500 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901233500 -0300" stop="20190902000000 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
