@@ -8,170 +8,476 @@
     <display-name lang="pt">AXN HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20190901004500 -0300" stop="20190901014000 -0300" channel="AXN HD">
+  <programme start="20190902000000 -0300" stop="20190902005500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902005500 -0300" stop="20190902014500 -0300" channel="AXN HD">
     <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901014000 -0300" stop="20190901023500 -0300" channel="AXN HD">
+  <programme start="20190902014500 -0300" stop="20190902023500 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901023500 -0300" stop="20190901033000 -0300" channel="AXN HD">
+  <programme start="20190902023500 -0300" stop="20190902033000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902033000 -0300" stop="20190902042000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902042000 -0300" stop="20190902051500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902051500 -0300" stop="20190902060000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902060000 -0300" stop="20190902070000 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901033000 -0300" stop="20190901042000 -0300" channel="AXN HD">
+  <programme start="20190902070000 -0300" stop="20190902080000 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901042000 -0300" stop="20190901051500 -0300" channel="AXN HD">
+  <programme start="20190902080000 -0300" stop="20190902090000 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901051500 -0300" stop="20190901060000 -0300" channel="AXN HD">
+  <programme start="20190902090000 -0300" stop="20190902100000 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060000 -0300" stop="20190901070000 -0300" channel="AXN HD">
+  <programme start="20190902100000 -0300" stop="20190902110000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902110000 -0300" stop="20190902115500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902115500 -0300" stop="20190902125000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902125000 -0300" stop="20190902134500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902134500 -0300" stop="20190902144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902144000 -0300" stop="20190902153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902153500 -0300" stop="20190902163000 -0300" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070000 -0300" stop="20190901075500 -0300" channel="AXN HD">
+  <programme start="20190902163000 -0300" stop="20190902172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902172500 -0300" stop="20190902182000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902182000 -0300" stop="20190902191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902191500 -0300" stop="20190902201000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902201000 -0300" stop="20190902210500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210500 -0300" stop="20190902220000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902225500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902225500 -0300" stop="20190902235000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902235000 -0300" stop="20190903004500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903004500 -0300" stop="20190903014000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014000 -0300" stop="20190903023500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903023500 -0300" stop="20190903033000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903033000 -0300" stop="20190903042000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903042000 -0300" stop="20190903051000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903051000 -0300" stop="20190903060000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060000 -0300" stop="20190903070000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070000 -0300" stop="20190903080000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903080000 -0300" stop="20190903090000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090000 -0300" stop="20190903100000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903100000 -0300" stop="20190903110000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903110000 -0300" stop="20190903115500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903115500 -0300" stop="20190903125000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903125000 -0300" stop="20190903134500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903134500 -0300" stop="20190903144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903144000 -0300" stop="20190903153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903153500 -0300" stop="20190903163000 -0300" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901075500 -0300" stop="20190901085000 -0300" channel="AXN HD">
+  <programme start="20190903163000 -0300" stop="20190903172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903172500 -0300" stop="20190903182000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903182000 -0300" stop="20190903191500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903191500 -0300" stop="20190903201000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903201000 -0300" stop="20190903210500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903210500 -0300" stop="20190903220000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903220000 -0300" stop="20190903225500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903225500 -0300" stop="20190903235000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903235000 -0300" stop="20190904004500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904004500 -0300" stop="20190904014000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904014000 -0300" stop="20190904023500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904023500 -0300" stop="20190904033000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904033000 -0300" stop="20190904042000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904042000 -0300" stop="20190904051000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904051000 -0300" stop="20190904060000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904060000 -0300" stop="20190904070000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904070000 -0300" stop="20190904080000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904080000 -0300" stop="20190904090000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904090000 -0300" stop="20190904100000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904100000 -0300" stop="20190904110000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904110000 -0300" stop="20190904115500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904115500 -0300" stop="20190904125000 -0300" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904125000 -0300" stop="20190904134500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904134500 -0300" stop="20190904144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904144000 -0300" stop="20190904153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904153500 -0300" stop="20190904163000 -0300" channel="AXN HD">
     <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901085000 -0300" stop="20190901094500 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
+  <programme start="20190904163000 -0300" stop="20190904172500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901094500 -0300" stop="20190901104000 -0300" channel="AXN HD">
-    <title lang="pt">C.S.I</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901104000 -0300" stop="20190901113500 -0300" channel="AXN HD">
+  <programme start="20190904172500 -0300" stop="20190904182000 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901113500 -0300" stop="20190901123000 -0300" channel="AXN HD">
+  <programme start="20190904182000 -0300" stop="20190904191500 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901123000 -0300" stop="20190901132500 -0300" channel="AXN HD">
+  <programme start="20190904191500 -0300" stop="20190904201000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904201000 -0300" stop="20190904210500 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904210500 -0300" stop="20190904220000 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901132500 -0300" stop="20190901142000 -0300" channel="AXN HD">
+  <programme start="20190904220000 -0300" stop="20190904225500 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901142000 -0300" stop="20190901151500 -0300" channel="AXN HD">
+  <programme start="20190904225500 -0300" stop="20190904235000 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901151500 -0300" stop="20190901161000 -0300" channel="AXN HD">
+  <programme start="20190904235000 -0300" stop="20190905004500 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901161000 -0300" stop="20190901170500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901170500 -0300" stop="20190901180000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901180000 -0300" stop="20190901185500 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901185500 -0300" stop="20190901195000 -0300" channel="AXN HD">
-    <title lang="pt">Hawaii Five-0</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901195000 -0300" stop="20190901204000 -0300" channel="AXN HD">
-    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901204000 -0300" stop="20190901210500 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901210500 -0300" stop="20190901213000 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901213000 -0300" stop="20190901222000 -0300" channel="AXN HD">
-    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901222000 -0300" stop="20190901231000 -0300" channel="AXN HD">
-    <title lang="pt">Investigação Criminal: Crimes Perversos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901231000 -0300" stop="20190901233500 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901233500 -0300" stop="20190902000000 -0300" channel="AXN HD">
-    <title lang="pt">Sem Rastro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
