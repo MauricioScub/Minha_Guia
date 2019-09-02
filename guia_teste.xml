@@ -8,6 +8,38 @@
     <display-name lang="pt">AXN HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO Plus *e</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus *e HD">
+    <display-name lang="pt">HBO Plus *e HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20190902000000 -0300" stop="20190902005500 -0300" channel="AXN HD">
     <title lang="pt">Criminal Minds</title>
     <star-rating>
@@ -478,6 +510,543 @@
   </programme>
   <programme start="20190904235000 -0300" stop="20190905004500 -0300" channel="AXN HD">
     <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902000500 -0300" stop="20190902020000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902020000 -0300" stop="20190902035000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Artista do Desastre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902035000 -0300" stop="20190902053000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Mortal Kombat</title>
+    <sub-title lang="pt">A Aniquilação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902053000 -0300" stop="20190902071000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Nancy Drew</title>
+    <sub-title lang="pt">E o Mistério de Hollywood</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902071000 -0300" stop="20190902085500 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Começo de um Novo Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902085500 -0300" stop="20190902103500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Pé Pequeno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902103500 -0300" stop="20190902122500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902122500 -0300" stop="20190902141000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902141000 -0300" stop="20190902155500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Artista do Desastre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902155500 -0300" stop="20190902174000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Freira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902174000 -0300" stop="20190902181500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902181500 -0300" stop="20190902192000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Milton Nascimento: Intimidade e Poesia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902192000 -0300" stop="20190902210000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Pé Pequeno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210000 -0300" stop="20190902220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Pico da Neblina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902233000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Os Estranhos: Caçada Noturna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902233000 -0300" stop="20190903014500 -0300" channel="HBO 2 HD">
+    <title lang="pt">12 Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014500 -0300" stop="20190903032500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Do Fundo do Mar 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903032500 -0300" stop="20190903051000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Educação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903051000 -0300" stop="20190903070500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Os Escritos Secretos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070500 -0300" stop="20190903090000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Um Reino Unido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090000 -0300" stop="20190903110000 -0300" channel="HBO 2 HD">
+    <title lang="pt">White Boy Rick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903110000 -0300" stop="20190903131000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Protetor 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903131000 -0300" stop="20190903134500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Ballers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903134500 -0300" stop="20190903142500 -0300" channel="HBO 2 HD">
+    <title lang="pt">The Righteous Gemstones</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903142500 -0300" stop="20190903161000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A-X-L: O Cão Robô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903161000 -0300" stop="20190903182000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Liga da Justiça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903182000 -0300" stop="20190903190000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903190000 -0300" stop="20190903210000 -0300" channel="HBO 2 HD">
+    <title lang="pt">White Boy Rick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903210000 -0300" stop="20190903220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Succession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903220000 -0300" stop="20190903233500 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Casa Caiu: Um Cassino na Vizinhança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233500 -0300" stop="20190904015500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Nasce Uma Estrela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904015500 -0300" stop="20190904033000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Ao Cair da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904033000 -0300" stop="20190904053500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Cálculo Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904053500 -0300" stop="20190904073500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Ella e John</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904073500 -0300" stop="20190904090500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Lucas</title>
+    <sub-title lang="pt">Um Intruso no Formigueiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904090500 -0300" stop="20190904105000 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Começo de um Novo Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904105000 -0300" stop="20190904123000 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Freira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904123000 -0300" stop="20190904133500 -0300" channel="HBO 2 HD">
+    <title lang="pt">Succession</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904133500 -0300" stop="20190904164500 -0300" channel="HBO 2 HD">
+    <title lang="pt">O Senhor dos Anéis: As Duas Torres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904164500 -0300" stop="20190904182000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Os Estranhos: Caçada Noturna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904182000 -0300" stop="20190904200500 -0300" channel="HBO 2 HD">
+    <title lang="pt">A Freira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904200500 -0300" stop="20190904220000 -0300" channel="HBO 2 HD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904220000 -0300" stop="20190905002000 -0300" channel="HBO 2 HD">
+    <title lang="pt">It: A Coisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902013000 -0300" stop="20190902033500 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Iluminado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902033500 -0300" stop="20190902054500 -0300" channel="HBO Plus HD">
+    <title lang="pt">A Síndrome da China</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902054500 -0300" stop="20190902073500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Um Novato na Máfia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902073500 -0300" stop="20190902084500 -0300" channel="HBO Plus HD">
+    <title lang="pt">T.J. Miller: Meticulosamente Ridículo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902084500 -0300" stop="20190902103500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Alma da Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902103500 -0300" stop="20190902111000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902111000 -0300" stop="20190902114500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902114500 -0300" stop="20190902125000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Bill Maher: Live From Dc</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902125000 -0300" stop="20190902145000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Megatubarão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902145000 -0300" stop="20190902164000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Perfeita é a Mãe 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902164000 -0300" stop="20190902181000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Guerras de Casamentos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902181000 -0300" stop="20190902200000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Alma da Festa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Megatubarão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902223500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902223500 -0300" stop="20190903001000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Eu Compartilho. Eu Gosto. Eu Sigo.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903001000 -0300" stop="20190903015500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Número 23</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903015500 -0300" stop="20190903030000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Pico da Neblina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903030000 -0300" stop="20190903045500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Enigma do Espaço</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903045500 -0300" stop="20190903063500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Mad Max 2: A Caçada Continua</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903063500 -0300" stop="20190903085500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Covil de Ladrões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903085500 -0300" stop="20190903105000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903105000 -0300" stop="20190903112500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903112500 -0300" stop="20190903120000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120000 -0300" stop="20190903132500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Chris Rock: Kill The Messenger</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903132500 -0300" stop="20190903151500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Rampage: Destruição Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903151500 -0300" stop="20190903155000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903155000 -0300" stop="20190903175500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Looper: Assassinos do Futuro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903175500 -0300" stop="20190903190000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Fora do Armário</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903190000 -0300" stop="20190903200500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Fora do Armário</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903200500 -0300" stop="20190903220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903220000 -0300" stop="20190903230500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Pico da Neblina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903230500 -0300" stop="20190904010000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Rampage: Destruição Total</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904010000 -0300" stop="20190904025000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Sing Street: Música e Sonho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904025000 -0300" stop="20190904053500 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Assassinato de Jesse James pelo Covarde Robert Ford</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904053500 -0300" stop="20190904072500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Gremlins</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904072500 -0300" stop="20190904090000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Contra o Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904090000 -0300" stop="20190904105500 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904105500 -0300" stop="20190904113000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904113000 -0300" stop="20190904120500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Los Espookys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904120500 -0300" stop="20190904131000 -0300" channel="HBO Plus HD">
+    <title lang="pt">T.J. Miller: Meticulosamente Ridículo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904131000 -0300" stop="20190904150000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Artista do Desastre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904150000 -0300" stop="20190904171500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Ele Não Está Tão a Fim de Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904171500 -0300" stop="20190904190500 -0300" channel="HBO Plus HD">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904190500 -0300" stop="20190904201000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Jerrod Carmichael: 8</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904201000 -0300" stop="20190904220000 -0300" channel="HBO Plus HD">
+    <title lang="pt">Artista do Desastre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190904220000 -0300" stop="20190905002500 -0300" channel="HBO Plus HD">
+    <title lang="pt">Covil de Ladrões</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
